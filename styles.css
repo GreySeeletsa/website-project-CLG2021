@@ -1,0 +1,22 @@
+body{
+    background-color:rgb(92, 184, 127);
+}
+.container1{
+    background-image: url(jamsquish.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+footer{
+    background-color:rgb(92, 184, 127) ;
+}
+h1{
+    color: ivory;
+} 
+p{
+    color: ivory;
+}
+.slide{
+    margin: 200px;
+}
